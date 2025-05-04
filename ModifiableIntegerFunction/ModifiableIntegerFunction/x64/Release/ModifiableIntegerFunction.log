@@ -1,0 +1,9 @@
+﻿  ModifiableIntegerFunction.cpp
+C:\Users\USER\Documents\OOP\ModifiableIntegerFunction\ModifiableIntegerFunction\ModifiableIntegerFunction.cpp(50,21): warning C4267: 'argument': conversion from 'size_t' to 'int16_t', possible loss of data
+  ModifiableIntegerFunctionTest.cpp
+  Generating code
+  7 of 25 functions (28.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ModifiableIntegerFunction.vcxproj -> C:\Users\USER\Documents\OOP\ModifiableIntegerFunction\x64\Release\ModifiableIntegerFunction.exe
